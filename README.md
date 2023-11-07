@@ -1,2 +1,2 @@
-# sinhnhatme
-i do it for my mom!
+# Birthday Card 🎂 
+Responsive Birthday Card - Made with Jquery and CSS
